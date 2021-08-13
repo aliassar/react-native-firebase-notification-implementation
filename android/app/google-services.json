@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "775484560502",
+    "firebase_url": "https://implementfirebase-80463.firebaseio.com",
+    "project_id": "implementfirebase-80463",
+    "storage_bucket": "implementfirebase-80463.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775484560502:android:e6cabe8449b9095c",
+        "android_client_info": {
+          "package_name": "com.implementfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775484560502-ag6o2o6gdmrk343058rbm9qkj4jps3o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_r297lJjyhAIfqb6iQD401TXBprSBD7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775484560502-ag6o2o6gdmrk343058rbm9qkj4jps3o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
