@@ -20,7 +20,7 @@ React Native 0.59.8, React 16.8.3, `react-native-firebase` ^5.4.2 (the deprecate
 
 ## Run it
 
-This is an old React Native version (0.59). To get actual notifications you would need your own Firebase project and your own `android/app/google-services.json` for package `com.implementfirebase`; the one in the repo belongs to the original author's project.
+This is an old React Native version (0.59). To get actual notifications you would need your own Firebase project and your own `android/app/google-services.json` for package `com.implementfirebase` (it is git-ignored, so it is not in the repo).
 
 ```sh
 yarn install
